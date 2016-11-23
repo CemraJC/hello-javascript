@@ -1,0 +1,6 @@
+{
+  "name": "Hello-javascript",
+  "tagline": "A work-in-progress GIANT tutorial series that takes newcomers to JavaScript gradually toward production level.",
+  "body": "# Hello JavaScript!\r\n\r\nWelcome to the repository for **Hello JavaScript** - a huge series of tutorials that are designed specifically to take JavaScript newcomers to a stage where they can write production level code. This series was definitely inspired by the current lack of quality explanation out there when it comes to JavaScript tooling with Node and other similar platforms.\r\n\r\nThe series is well-organised into stages, so feel free to skip past the bits you're confident with.\r\n\r\n## [Click Here to go to the Landing Page][landing]\r\n\r\n### Topics List\r\n\r\nThis series is a work-in-progress, but here are all the topics we plan to cover:\r\n\r\n> WIP\r\n\r\n### Contributions\r\n\r\n#### How the site is built\r\n\r\n#### What is accepted\r\n\r\n#### Recommended Todo List\r\n\r\n[landing]: no-link-yet\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
